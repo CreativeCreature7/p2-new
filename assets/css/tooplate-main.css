@@ -349,10 +349,6 @@ nav a::before {
 }
 #image-slider ul li:nth-child(1) {
   background-image: url(../images/bg-3.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
 }
 #image-slider ul li:nth-child(2) {
   background-image: url(../images/bg-2.jpg);
